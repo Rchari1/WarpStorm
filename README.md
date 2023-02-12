@@ -1,6 +1,6 @@
 # 3D Particle Simulation with f(R) Gravity in a Non-trivial Wormhole Environment
 
-### This code simulates the motion of a particle in three-dimensional space under the influence of two point masses (a non-trvial wormhole) and an additional force due to f(R) gravity. The simulation is implemented using the scipy.integrate library and the matplotlib library is used to visualize the results.
+### This program simulates the motion of a particle in three-dimensional space under the influence of two point masses (a non-trvial wormhole) and an additional force due to f(R) gravity. The simulation is implemented using the scipy.integrate library and the matplotlib library is used to visualize the results.
 
 ## Requirements
 numpy
